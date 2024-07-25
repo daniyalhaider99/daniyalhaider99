@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **daniyalhaider99@gmail.com**
 
+- 💼 [Learn More About Me](https://daniyal-haider-portfolio.vercel.app)
+
 
 <p>
   <a href="https://dev.to/daniyalhaider99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="daniyal" height="30" width="30" /></a>
